@@ -1,7 +1,10 @@
 # Executive Productivity Agent
 
 An AI-assisted executive productivity agent prototype designed for **Arjun Malhotra, VP Sales**. The system organizes meeting information, email commitments, calendar events, and personal reminders into an executive-focused dashboard.
+## Project Links
 
+- Live Streamlit Prototype: https://executive-appuctivity-agent-amskf9i5ydytfhjxnv3jot.streamlit.app/
+- GitHub Repository: https://github.com/Abhiydv110/Executive-Productivity-Agent
 ## Project Overview
 
 Executives receive information from multiple sources such as meetings, emails, calendars, and personal reminders. Important commitments can be missed when this information is distributed across different sources.
